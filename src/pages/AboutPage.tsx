@@ -42,7 +42,7 @@ const AboutPage: React.FC = () => {
             >
               <h2 className="text-3xl font-serif text-luxury-black mb-6">Our Heritage</h2>
               <p className="text-luxury-gray mb-4">
-                Founded in 2010, Luxe Maroc began as a small atelier in Marrakech, dedicated to preserving traditional Moroccan craftsmanship while infusing it with contemporary design. Our founder, inspired by the rich cultural heritage of Morocco and the timeless elegance of European luxury, set out to create pieces that would stand the test of time.
+                Founded in 2010, Luxe Maroc began as a small atelier in Casablanca, dedicated to preserving traditional Moroccan craftsmanship while infusing it with contemporary design. Our founder, inspired by the rich cultural heritage of Morocco and the timeless elegance of European luxury, set out to create pieces that would stand the test of time.
               </p>
               <p className="text-luxury-gray mb-4">
                 Over the years, we've grown from a small workshop to a respected luxury brand, but our core values remain unchanged. Every Luxe Maroc creation is still meticulously handcrafted by skilled artisans using time-honored techniques passed down through generations.
@@ -237,7 +237,7 @@ const AboutPage: React.FC = () => {
             >
               <h2 className="text-3xl font-serif text-luxury-black mb-6">Visit Our Boutique</h2>
               <p className="text-luxury-gray mb-6">
-                We invite you to experience the world of Luxe Maroc in person at our flagship boutique in Marrakech. Step into a space where tradition meets modernity, and discover our collections in an atmosphere that reflects our commitment to exceptional craftsmanship and timeless elegance.
+                We invite you to experience the world of Luxe Maroc in person at our flagship boutique in Casablanca. Step into a space where tradition meets modernity, and discover our collections in an atmosphere that reflects our commitment to exceptional craftsmanship and timeless elegance.
               </p>
               <p className="text-luxury-gray mb-8">
                 Our knowledgeable staff will guide you through our collections, share the stories behind our pieces, and help you find the perfect Luxe Maroc creation.
@@ -246,7 +246,7 @@ const AboutPage: React.FC = () => {
               <div className="space-y-4 mb-8">
                 <div>
                   <h3 className="text-lg font-serif text-luxury-black">Location</h3>
-                  <p className="text-luxury-gray">123 Fashion Avenue, Marrakech, Morocco</p>
+                  <p className="text-luxury-gray">123 Fashion Avenue, Casablanca, Morocco</p>
                 </div>
                 <div>
                   <h3 className="text-lg font-serif text-luxury-black">Hours</h3>
